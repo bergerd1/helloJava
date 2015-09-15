@@ -1,0 +1,12 @@
+{
+  "name": "Hello Java",
+  "engines": {
+    "java": "7",
+    "tomcat": "7"
+  },
+  "env": {
+    "MONGO_URL": "mongodb://test:test@apollo.modulusmongo.net:27017/abu8Papy",
+    "JAVA_OPTS": "-Xms384m -Xmx384m -XX:MaxPermSize=128m"
+  }
+}
+
